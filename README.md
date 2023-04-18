@@ -1,2 +1,2 @@
-# george-leece.gitbub.io
+# george-leece.github.io
 Personal Portfolio Page
