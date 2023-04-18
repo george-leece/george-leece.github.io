@@ -1,6 +1,6 @@
 # george-leece.github.io
 Personal Portfolio Page
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+//<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
 <main id="main">
   <nav id="header">
